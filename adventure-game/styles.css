@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-size: medium;
+    font-style: italic;
+}
+
+game container {
+    text-align: center;
+    background-color: white;
+    font-size: medium;
+    font-style: italic;
+}
+   
+question {
+    font-size: medium;
+}
+
+answers {
+    font-size: medium;
+}
+
+
+
+answers button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: medium;
+    background-color: beige;
+    color: black;
+    border: none;
+}
+
+
+
+
+
+
