@@ -53,4 +53,4 @@ function nextQuestion() {
     renderQuestion();
 }
 
-
+window.onload = nextQuestion;
