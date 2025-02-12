@@ -10,7 +10,7 @@ const story = [
     },
     {
         question: "You are walking through the path and"
-                + "suddenly sees a bear approaching towards you, what will you do?",
+                + "suddenly sees a bear approaching towards you what will you do?",
         choices: [
             { label: "Fight the bear", nextState: 3 },
             { label: "Run away", nextState: 4 }
